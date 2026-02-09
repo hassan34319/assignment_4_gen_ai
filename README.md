@@ -28,8 +28,8 @@ A Next.js application that leverages Llama 3.1 (via Groq) to perform two core se
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-security-helper.git
-cd llm-security-helper
+git clone https://github.com/hassan34319/assignment_4_gen_ai/
+cd GenAI/Assignment_4/llm-security-helper
 ```
 
 ### 2. Install Dependencies
